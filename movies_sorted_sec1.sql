@@ -16,7 +16,11 @@ INSERT INTO movies VALUES (5, "The Lion King", 1994);
 INSERT INTO movies VALUES (6, "Disney's Up", 2009);
 
 -- Step 1: Select all movies
-SELECT * FROM movies;
+SELECT *
+FROM movies;
 
 -- Step 2: Add a second query that retrieves only the movies that were released in the year 2000 or later, not before and is sorted by earlier movies first
-SELECT * FROM movies WHERE release_year > 2000 ORDER BY release_year;
+SELECT *
+FROM movies
+WHERE release_year > 2000
+ORDER BY release_year;
