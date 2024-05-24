@@ -6,7 +6,7 @@ After, add a second query after the first, that retrieves only the movies that w
 Sort the results so that the earlier movies are listed first. You should have 2 SELECT statements after this step.
 **/
 
--- Database Khan Academy provided 
+-- code provided by Khan Academy
 CREATE TABLE movies (id INTEGER PRIMARY KEY, name TEXT, release_year INTEGER);
 INSERT INTO movies VALUES (1, "Avatar", 2009);
 INSERT INTO movies VALUES (2, "Titanic", 1997);
