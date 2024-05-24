@@ -4,11 +4,11 @@ In this first step, create a table to store your list of books. It should have c
 Add three of your favorite books into the table
 **/
 
-/** Favorite books:
+/* Favorite books:
 Happy Place by Emily Henry - 5
 Skinny Woman in a Straw Hat by Hao C. Tran - 4.5 
 All About Love: New Visions by bell hooks - 4.5
-**/
+*/
 
 -- Step 1: Create an empty table with columns
 CREATE TABLE favorite_books (id INTEGER PRIMARY KEY, name TEXT, author TEXT, rating NUMERIC); -- I added an extra column for author
