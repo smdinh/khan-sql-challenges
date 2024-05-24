@@ -11,7 +11,9 @@ INSERT INTO todo_list VALUES (2, "Vacuuming", 20);
 INSERT INTO todo_list VALUES (3, "Learn some stuff on KA", 30);
 
 -- Step 1: Insert another item into the table
-INSERT INTO todo_list VALUES (4, "Tidy bedroom", 60);
+INSERT INTO todo_list
+VALUES (4, "Tidy bedroom", 60);
 
 -- Step 2: Select the SUM of minutes it'll take to complete the items on the TODO list
-SELECT SUM(minutes) FROM todo_list;
+SELECT SUM(minutes)
+FROM todo_list;
