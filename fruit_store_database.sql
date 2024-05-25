@@ -1,4 +1,5 @@
 /** Project: Design a store database
+Lesson 1: SQL basics
 Create my own store.
 My store should sell one type of things, like clothing or bikes, whatever you want your store to specialize in.
 I should have a table for all the items in your store, and at least 5 columns for the kind of data I think I'd need to store.
