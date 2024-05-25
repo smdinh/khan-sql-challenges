@@ -1,4 +1,5 @@
 /** Challenge: TODO list database stats
+Lesson 1: SQL basics
 Here's a table containing a TODO list with the number of minutes it will take to complete each item.
 First, insert another item to the todo list with the estimated minutes it will take.
 Next, select the SUM of minutes it will take to do all of the items on the TODO list. There should only be one SELECT statement.
