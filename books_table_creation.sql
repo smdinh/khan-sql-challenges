@@ -1,4 +1,5 @@
 /** Challenge: Book list database
+Lesson 1: SQL basics
 Make a database table to store my favorite books in.
 In this first step, create a table to store your list of books. It should have columns for id, name, and rating.
 Add three of your favorite books into the table
