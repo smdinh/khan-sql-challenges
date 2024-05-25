@@ -1,4 +1,5 @@
 /** Challenge: Box office hits database
+Lesson 1: SQL basics
 This database contains an incomplete list of box office hits and their release year.
 In this challenge, I will get the results back out of the database in different ways.
 In this first step, just select all the movies.
