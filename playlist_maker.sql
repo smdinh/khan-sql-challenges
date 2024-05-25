@@ -1,4 +1,5 @@
 /** Challenge: Playlist maker
+Lesson 2: More advanced SQL queries
 We've created a database of songs and artists, and you'll make playlists from them in this challenge.
 In this first step, select the title of all the songs by the artist named 'Queen'.
 Now you'll make a 'Pop' playlist. In preparation, select the name of all of the artists from the 'Pop' genre.
